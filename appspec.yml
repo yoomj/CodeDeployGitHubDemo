@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /index.html
+  - source: /htdocs/*
     destination: /opt/bitnami/apache/htdocs

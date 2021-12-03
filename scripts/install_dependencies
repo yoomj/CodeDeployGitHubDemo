@@ -1,2 +1,2 @@
 #!/bin/bash
-apt-get install -y apache2
+service httpd status
